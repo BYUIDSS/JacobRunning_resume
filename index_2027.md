@@ -7,7 +7,6 @@ Computer Scientist
 
 <div id="webaddress">
 <a href="jakerunning@hotmail.com">jakerunning@hotmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
