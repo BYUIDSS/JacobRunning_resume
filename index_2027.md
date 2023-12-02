@@ -14,6 +14,12 @@ Computer Scientist
 
 ## Education
 
+`2013-2017`
+__Martinsburg High School__, Martinsburg, WV
+
+- 4.0+ GPA
+- Valedictorian
+
 `2017-2019`
 __West Virginia University__, Morgantown, WV
 
