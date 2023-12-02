@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Jacob Running's Resume
 ---
 # Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Computer Scientist
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,27 +15,39 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2019`
+__West Virginia University__, Morgantown, WV
 
-- Full academic scholarship with 4.0 GPA
+- General courses, some Mechanical and Aerospace Engineering courses
 
-`Expected 2029`
+`2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Undergraduate courses
+- Bachelor's Computer Science Degree
+- Focus in
+- Machine Learning elective(s)
 
+
+## Certifications
+
+`Completed`
+- AWS Associate Architect
+
+`In-Progress`
+- AWS Associate Developer
+- AWS Data Engineer Associate
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - April 2023`
+__Diaconia__, Remote
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked under Diaconia to learn AWS systems
+- Completed AWS Associate Architect Certification
+- Worked on AWS Associate Developer Certification
 
 ### Data Science Lead
 
