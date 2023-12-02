@@ -23,14 +23,19 @@ __Martinsburg High School__, Martinsburg, WV
 `2017-2019`
 __West Virginia University__, Morgantown, WV
 
-- General courses, some Mechanical and Aerospace Engineering courses
+- General courses
+- Calculus 1-3
+- Linear Algebra
+- Multivariable Calculus
+- Differential Equations
+- Some Mechanical and Aerospace Engineering courses
 
 `2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Undergraduate courses
+- Undergraduate classes
 - Bachelor's Computer Science Degree
-- Focus in
+- Focus in Functional Programming
 - Machine Learning elective(s)
 
 
