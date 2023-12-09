@@ -19,6 +19,7 @@ __Martinsburg High School__, Martinsburg, WV
 
 - 4.0+ GPA
 - Valedictorian
+- Robotics Club
 
 `2017-2019`
 __West Virginia University__, Morgantown, WV
