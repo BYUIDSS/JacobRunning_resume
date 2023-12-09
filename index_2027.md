@@ -37,6 +37,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelor's Computer Science Degree
 - Focus in Functional Programming
 - Machine Learning elective(s)
+- Senior Project - SQL Database Server with Web-Front
 
 
 ## Certifications
